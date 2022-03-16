@@ -18,6 +18,7 @@
 
  
   ![Snake animation](github-user-contribution.svg)
+  _generated with [Platane/snk](https://github.com/Platane/snk)_
  
 </div>
 
