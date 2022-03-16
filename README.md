@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonrafhael&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
   <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=andersonrafhael&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrafhael&langs_count=12&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrafhael&layout=compact&theme=radical"/>
 </div>
   
   ##
