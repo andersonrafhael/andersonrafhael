@@ -1,4 +1,4 @@
-name: Generate Datas
+name: generate animation
 
 on:
   schedule: # execute automatically  every 12 hours
@@ -26,7 +26,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
           build_dir: dist
