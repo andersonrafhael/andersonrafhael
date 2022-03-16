@@ -21,11 +21,9 @@
 
 </div>
   
-<div>
-  
-    _generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Platane/snk](https://github.com/Platane/snk)_
  
-</div>
+
 
 <!--
 **andersonrafhael/andersonrafhael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
