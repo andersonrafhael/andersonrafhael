@@ -5,7 +5,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andersonrafhael&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=andersonrafhael&theme=merko&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrafhael&layout=compact&langs_count=6&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrafhael&layout=compact&langs_count=6&theme=merko"/>
 </div>
   
   ##
