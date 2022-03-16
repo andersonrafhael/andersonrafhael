@@ -8,8 +8,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonrafhael&layout=compact&langs_count=6&theme=merko"/>
 </div>
   
-  ##
-  
 ## Contact me
   
 <div align="center"> 
