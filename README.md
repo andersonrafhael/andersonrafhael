@@ -16,7 +16,7 @@
 </div>
   
 <div align="center">
-  ![Snake animation](github-user-contribution.svg)
+  ![Snake animation](https://github.com/ProgramacaoPratica/ProgramacaoPratica/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 _generated with [Platane/snk](https://github.com/Platane/snk)_
